@@ -1,7 +1,9 @@
 html{
     scroll-behavior: smooth;
 }
-
+.top-padding{
+    padding-top:100px;
+}
 .top{
     background-image: url(images/top.jpg);
     background-size: 100% 100%;
