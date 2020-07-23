@@ -238,5 +238,6 @@ ul.social li a i {
 
 form{
     border: 1px gray solid;
-    padding: 10px;
+    padding: 30px;
+    border radius: 5px;
 }
