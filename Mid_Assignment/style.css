@@ -12,6 +12,8 @@ html{
 
 .navbar1{
     width: 100%;
+    position:fixed;
+    z-index:100;
 }
 
 #navdata ul{
@@ -239,5 +241,5 @@ ul.social li a i {
 form{
     border: 1px gray solid;
     padding: 30px;
-    border radius: 5px;
+    border radius: 10px;
 }
